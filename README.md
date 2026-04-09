@@ -83,7 +83,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 - 🧠 How **Large Language Models (LLM)** work internally
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock with Key" width="20" height="20"> **Active defense** techniques in cybersecurity
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Business/Chart%20Increasing.png" alt="Chart" width="20" height="20"> Building **scalable tech products**
+- 📈 Building **scalable tech products**
 
 ---
 
@@ -112,7 +112,7 @@ It's not enough for me to know that something works — I want to understand **_
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/liko.sys)
-[![Portfolio](https://img.shields.io/badge/-guns.lol-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
+[![Website](https://img.shields.io/badge/-guns.lol-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08)
 
 </div>
