@@ -97,10 +97,10 @@ It's not enough for me to know that something works — I want to understand **_
 <div align="center">
 
 ### 🔥 Streak & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLiko08tu&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLiko08&theme=dark&hide_border=true)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLiko08tu&layout=compact&theme=dark&langs_count=5&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLiko08&layout=compact&theme=dark&langs_count=5&hide_border=true)
 
 </div>
 
@@ -111,8 +111,8 @@ It's not enough for me to know that something works — I want to understand **_
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/liko.sys)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08tu)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08)
 
 </div>
 
