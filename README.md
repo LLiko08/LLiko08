@@ -123,7 +123,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ### 🤝 Open to Collaborations
 
-I'm always interested in new challenges and innovative projects. Let's build something amazing together!
+Always interested in new challenges and innovative projects
 
 </div>
 
