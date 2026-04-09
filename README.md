@@ -1,4 +1,4 @@
-![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08tu/LLiko08/main/banner.jpg)
+![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08/LLiko08/main/banner.jpg)
 
 <div align="center">
 
@@ -63,7 +63,7 @@ It's not enough for me to know that something works — I want to understand **_
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/liko.sys)
-[![Portfolio](https://img.shields.io/badge/-guns.lol-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
+[![Portfolio](https://img.shields.io/badge/-Website-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08tu)
 
 </div>
@@ -75,9 +75,7 @@ It's not enough for me to know that something works — I want to understand **_
 <div align="center">
 
 <!-- Statistiche principali -->
-<img src="https://github-readme-stats.vercel.app/api?username=LLiko08&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="30%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LLiko08&theme=dark&hide_border=true" alt="GitHub Streak" width="30%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLiko08&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="30%"/>
 
 </div>
 
