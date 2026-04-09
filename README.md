@@ -1,4 +1,4 @@
-![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08tu/LLiko08/main/banner.jpg)
+![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08/LLiko08/main/banner.jpg)
 
 <div align="center">
 
