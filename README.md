@@ -58,7 +58,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="25"> Get in Touch
+## 🔗 Connect with me
 
 <div align="center">
 
