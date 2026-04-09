@@ -2,19 +2,19 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Liko
+# 👋 Hey, I'm Liko <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px">
 
 **AI Enthusiast | Cybersecurity Passionate | Game Developer**
 
 ---
 
-### 🧠 *"I'm not just interested in using technology — I want to understand how it thinks."*
+### 🧠 <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="25px"> *"I'm not just interested in using technology — I want to understand how it thinks."*
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 <img src="https://media.giphy.com/media/3ohzdKdb7gehSGZ0c4/giphy.gif" width="25px"> About Me
 
 I'm a **4th year ITIS student**, passionate about **AI and cybersecurity**.  
 It's not enough for me to know that something works — I want to understand **_why_** it works and **_how_** it reasons.
@@ -23,7 +23,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-## 🔥 Main Interests
+## 🔥 <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Main Interests
 
 <table>
   <tr>
