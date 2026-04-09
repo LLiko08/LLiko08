@@ -3,7 +3,7 @@
 
 Mi affascina in particolare l'AI: studiare come un modello apprende e prende decisioni è per me più interessante che usarlo soltanto.
 Quando ho un'idea, la costruisco — che richieda Python, un Arduino o entrambi.
----
+
 
 ## 🧠 Chi sono
 
