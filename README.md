@@ -35,34 +35,6 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"> Featured Projects
-
-### 🔴 **Honeypot**
-*Real-time attack monitoring system*
-
-> Decoy server that attracts hackers, logs attacks, geolocalizes them and analyzes via web dashboard. Telegram bot for instant notifications.
-
-**Stack:** `Python` `Cybersecurity` `Telegram Bot` `Web Dashboard`
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Lock" width="20" height="20"> **Scatola dei Sensi**
-*Smart electronic safe*
-
-> 4x4 keypad access, LED feedback, automatic servo opening, sound feedback on error.
-
-**Stack:** `Arduino` `C++` `Hardware` `IoT`
-
----
-
-### 💡 **SmartLamp**
-*Intelligent lamppost with integrated AI*
-
-> Turns on detecting vehicles, pedestrians, cyclists via camera. Perfect for poorly lit mountain roads. Includes traffic monitoring and real-time weather station.
-
-**Stack:** `AI` `Computer Vision` `IoT` `Python` `Arduino`
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25"> Tech Stack
 
