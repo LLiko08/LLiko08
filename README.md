@@ -113,7 +113,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/liko.sys)
 [![Website](https://img.shields.io/badge/-guns.lol-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08tu)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08)
 
 </div>
 
