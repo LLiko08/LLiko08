@@ -1,33 +1,33 @@
-![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08tu/LLiko08/main/banner.jpg)
+![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08/LLiko08/main/banner.jpg)
 
 <div align="center">
 
-# 👋 Hey, I'm Liko <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px"> Hey, I'm Liko
 
 **AI Enthusiast | Cybersecurity Passionate | Game Developer**
 
 ---
 
-### 🧠 <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="25px"> *"I'm not just interested in using technology — I want to understand how it thinks."*
+### <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="25px"> *"I'm not just interested in using technology — I want to understand how it thinks."*
 
 </div>
 
 ---
 
-## 🎯 <img src="https://media.giphy.com/media/3ohzdKdb7gehSGZ0c4/giphy.gif" width="25px"> About Me
+## <img src="https://media.giphy.com/media/3ohzdKdb7gehSGZ0c4/giphy.gif" width="25px"> About Me
 
 I'm a **4th year ITIS student**, passionate about **AI and cybersecurity**.  
 It's not enough for me to know that something works — I want to understand **_why_** it works and **_how_** it reasons.
 
-> 🚀 **Final Goal:** Build a tech startup that combines AI and security to solve real problems.
+> <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> **Final Goal:** Build a tech startup that combines AI and security to solve real problems.
 
 ---
 
-## 🔥 <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Main Interests
+## <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Main Interests
 
 <table>
   <tr>
-    <td align="center"><b>🤖 AI & ML</b><br/>Models, NLP, Computer Vision</td>
+    <td align="center"><b><img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="20px"> AI & ML</b><br/>Models, NLP, Computer Vision</td>
     <td align="center"><b>🛡️ Cybersecurity</b><br/>Ethical hacking, attack analysis</td>
     <td align="center"><b>🎮 Game Development</b><br/>Game creation, scripting</td>
   </tr>
@@ -35,9 +35,9 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Featured Projects
 
-### 🔴 **Honeypot** 
+### <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="20px"> **Honeypot** 
 *Real-time attack monitoring system*
 
 > Decoy server that attracts hackers, logs attacks, geolocalizes them and analyzes via web dashboard. Telegram bot for instant notifications.
@@ -46,7 +46,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-### 🔒 **Scatola dei Sensi**
+### <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="20px"> **Scatola dei Sensi**
 *Smart electronic safe*
 
 > 4x4 keypad access, LED feedback, automatic servo opening, sound feedback on error.
@@ -55,7 +55,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-### 💡 **SmartLamp**
+### <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="20px"> **SmartLamp**
 *Intelligent lamppost with integrated AI*
 
 > Turns on detecting vehicles, pedestrians, cyclists via camera. Perfect for poorly lit mountain roads. Includes traffic monitoring and real-time weather station.
@@ -64,7 +64,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Tech Stack
 
 <div align="center">
 
@@ -81,20 +81,20 @@ It's not enough for me to know that something works — I want to understand **_
 
 ## 📚 Currently Learning
 
-- 🧠 How **Large Language Models (LLM)** work internally
+- <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="20px"> How **Large Language Models (LLM)** work internally
 - 🔐 **Active defense** techniques in cybersecurity
-- 📈 Building **scalable tech products**
+- <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="20px"> Building **scalable tech products**
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> GitHub Stats
 
 <div align="center">
 
-### 🔥 Streak & Activity
+### <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Streak & Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLiko08&theme=dark&hide_border=true)
 
-### 💻 Most Used Languages
+### <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="25px"> Most Used Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -107,7 +107,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-## 💬 Get in Touch
+## <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Get in Touch
 
 <div align="center">
 
@@ -121,7 +121,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 <div align="center">
 
-### 🤝 Open to Collaborations
+### <img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="25px"> Open to Collaborations
 
 I'm always interested in new challenges and innovative projects. Let's build something amazing together!
 
@@ -131,7 +131,7 @@ I'm always interested in new challenges and innovative projects. Let's build som
 
 <div align="center">
   
-**Made with ❤️ by Liko**  
+**Made with <img src="https://media.giphy.com/media/l0HlR82LoRekSW8Ug/giphy.gif" width="20px"> by Liko**  
 *Always learning, always building.*
 
 </div>
