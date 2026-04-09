@@ -128,7 +128,7 @@ I'm always interested in new challenges and innovative projects. Let's build som
 </div>
 
 ---
-
+![gif](https://raw.githubusercontent.com/LLiko08/LLiko08/main/assets/never_stop_dreaming_hd.gif)
 <div align="center">
 
 **Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" height="20"> by Liko**  
