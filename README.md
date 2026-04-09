@@ -1,16 +1,15 @@
 # Ciao, sono Liko 👋
 
-Sono uno studente ITIS al 4° anno, appassionato di informatica e intelligenza artificiale.
-Non mi basta sapere che una cosa funziona — voglio capire *perché* funziona e *come* ragiona.
-Il mio obiettivo? Costruire la mia startup nel mondo tech.
 
+Mi affascina in particolare l'AI: studiare come un modello apprende e prende decisioni è per me più interessante che usarlo soltanto.
+Quando ho un'idea, la costruisco — che richieda Python, un Arduino o entrambi.
 ---
 
 ## 🧠 Chi sono
 
-Mi muovo tra software e hardware, dal codice ai circuiti.
-Mi affascina in particolare l'AI: studiare come un modello apprende e prende decisioni è per me più interessante che usarlo soltanto.
-Quando ho un'idea, la costruisco — che richieda Python, un Arduino o entrambi.
+Sono uno studente ITIS al 4° anno, appassionato di informatica e intelligenza artificiale.
+Non mi basta sapere che una cosa funziona — voglio capire *perché* funziona e *come* ragiona.
+Il mio obiettivo? Costruire la mia startup nel mondo tech.
 
 ---
 
