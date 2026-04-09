@@ -1,4 +1,4 @@
-![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08/LLiko08/main/banner.jpg)
+![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08tu/LLiko08/main/banner_v3.jpg)
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="25" height="25"> *"I'm not just interested in using technology — I want to understand how it thinks."*
+### 🧠 *"I'm not just interested in using technology — I want to understand how it thinks."*
 
 </div>
 
@@ -27,7 +27,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 <table>
   <tr>
-    <td align="center"><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20"> AI & ML</b><br/>Models, NLP, Computer Vision</td>
+    <td align="center"><b>🤖 AI & ML</b><br/>Models, NLP, Computer Vision</td>
     <td align="center"><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"> Cybersecurity</b><br/>Ethical hacking, attack analysis</td>
     <td align="center"><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="20" height="20"> Game Development</b><br/>Game creation, scripting</td>
   </tr>
@@ -37,7 +37,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"> Featured Projects
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Red%20Circle.png" alt="Red Circle" width="20" height="20"> **Honeypot**
+### 🔴 **Honeypot**
 *Real-time attack monitoring system*
 
 > Decoy server that attracts hackers, logs attacks, geolocalizes them and analyzes via web dashboard. Telegram bot for instant notifications.
@@ -55,7 +55,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bulb.png" alt="Bulb" width="20" height="20"> **SmartLamp**
+### 💡 **SmartLamp**
 *Intelligent lamppost with integrated AI*
 
 > Turns on detecting vehicles, pedestrians, cyclists via camera. Perfect for poorly lit mountain roads. Includes traffic monitoring and real-time weather station.
@@ -81,7 +81,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25"> Currently Learning
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="20" height="20"> How **Large Language Models (LLM)** work internally
+- 🧠 How **Large Language Models (LLM)** work internally
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock with Key" width="20" height="20"> **Active defense** techniques in cybersecurity
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Business/Chart%20Increasing.png" alt="Chart" width="20" height="20"> Building **scalable tech products**
 
@@ -112,7 +112,7 @@ It's not enough for me to know that something works — I want to understand **_
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/liko.sys)
-[![Website](https://img.shields.io/badge/-guns.lol-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
+[![Portfolio](https://img.shields.io/badge/-guns.lol-FF6B35?style=flat-square&logo=firefox&logoColor=white)](https://guns.lol/liko.sys)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08)
 
 </div>
@@ -121,7 +121,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="25" height="25"> Open to Collaborations
+### 🤝 Open to Collaborations
 
 I'm always interested in new challenges and innovative projects. Let's build something amazing together!
 
