@@ -1,5 +1,3 @@
-![Never Stop Dreaming](https://raw.githubusercontent.com/LLiko08/LLiko08/main/banner_v3.jpg)
-
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35"> Hey, I'm Liko
@@ -22,19 +20,6 @@ It's not enough for me to know that something works — I want to understand **_
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20"> **Final Goal:** Build a tech startup that combines AI and security to solve real problems.
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25"> Main Interests
-
-<table>
-  <tr>
-    <td align="center"><b>🤖 AI & ML</b><br/>Models, NLP, Computer Vision</td>
-    <td align="center"><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20"> Cybersecurity</b><br/>Ethical hacking, attack analysis</td>
-    <td align="center"><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="20" height="20"> Game Development</b><br/>Game creation, scripting</td>
-  </tr>
-</table>
-
----
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25"> Tech Stack
 
@@ -100,10 +85,5 @@ Always interested in new challenges and innovative projects
 </div>
 
 ---
+
 ![gif](https://raw.githubusercontent.com/LLiko08/LLiko08/main/never_stop_dreaming_loop.gif)
-<div align="center">
-
-**Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" height="20"> by Liko**  
-*Always learning, always building.*
-
-</div>
