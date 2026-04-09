@@ -1,64 +1,121 @@
-# Ciao, sono Liko 👋
+![Banner](https://raw.githubusercontent.com/LLiko08tu/LLiko08/main/banner.jpg)
 
+<div align="center">
 
-Mi affascina in particolare l'AI: studiare come un modello apprende e prende decisioni è per me più interessante che usarlo soltanto.
-Quando ho un'idea, la costruisco — che richieda Python, un Arduino o entrambi.
+# 👋 Ciao, sono Liko
 
-
-## 🧠 Chi sono
-
-Sono uno studente ITIS al 4° anno, appassionato di informatica e intelligenza artificiale.
-Non mi basta sapere che una cosa funziona — voglio capire *perché* funziona e *come* ragiona.
-Il mio obiettivo? Costruire la mia startup nel mondo tech.
+**AI Enthusiast | Cybersecurity Passionate | Hardware Hacker**
 
 ---
 
-## 🔍 Interessi principali
+### 🧠 *"Non mi interessa solo usare la tecnologia — voglio capire come pensa."*
 
-- **Intelligenza Artificiale** — come ragionano i modelli, machine learning applicato
-- **Cybersecurity** — sistemi di difesa, analisi degli attacchi, ethical hacking
-- **Hardware & IoT** — Arduino, sensori, sistemi embedded
-- **Imprenditoria tech** — trasformare idee in prodotti reali
+</div>
 
 ---
 
-## 🚀 Progetti
+## 🎯 Chi sono
 
-### 🔒 Honeypot
-Sistema di monitoraggio degli attacchi informatici in tempo reale.
-Un server esca attira gli hacker: ogni attacco viene registrato, geolocalizzato e analizzato tramite una dashboard web. Un bot Telegram notifica l'utente istantaneamente con tipo di attacco e contromisure consigliate.
-`Python` `Cybersecurity` `Telegram Bot` `Dashboard`
+Sono uno studente **ITIS 4° anno**, appassionato di **AI e cybersecurity**.  
+Non mi basta sapere che una cosa funziona — voglio capire **_perché_** funziona e **_come_** ragiona.
 
-### 🔐 Scatola dei Sensi
-Cassaforte elettronica con Arduino: accesso tramite codice su tastierino 4x4, feedback visivo con LED, apertura automatica via servomotore e risposta sonora in caso di codice errato.
-`Arduino` `C++` `Hardware` `IoT`
-
-### 💡 SmartLamp
-Lampione intelligente con AI integrata: si accende solo al rilevamento di veicoli, pedoni o ciclisti tramite telecamera. Pensato per strade di montagna poco illuminate, include monitoraggio del traffico e stazione meteorologica in tempo reale.
-`AI` `Computer Vision` `IoT` `Arduino` `Python`
+> 🚀 **Obiettivo finale:** Creare una startup tech che unisca AI e sicurezza per risolvere problemi reali.
 
 ---
 
-## 🛠️ Tecnologie & Strumenti
+## 🔥 Interessi
 
-**Linguaggi:** Python · C / C++ · HTML/CSS · SQL  
-**Ambiti:** AI/ML · Cybersecurity · Hardware & IoT · Web  
-**Strumenti:** Git · Arduino IDE · Linux
+<table>
+  <tr>
+    <td align="center"><b>🤖 AI & ML</b><br/>Modelli, NLP, Computer Vision</td>
+    <td align="center"><b>🛡️ Cybersecurity</b><br/>Ethical hacking, analisi attacchi</td>
+    <td align="center"><b>⚙️ Hardware & IoT</b><br/>Arduino, sensori, embedded</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Progetti Principali
+
+### 🔴 **Honeypot** 
+*Sistema di monitoraggio attacchi in tempo reale*
+
+> Server esca che attira hacker, registra gli attacchi, li geolocalizza e li analizza. Bot Telegram per notifiche istantanee.
+
+**Stack:** `Python` `Cybersecurity` `Telegram Bot` `Dashboard Web`
+
+---
+
+### 🔒 **Scatola dei Sensi**
+*Cassaforte elettronica intelligente*
+
+> Accesso con tastierino 4x4, feedback LED, apertura automatica via servomotore, feedback sonoro su errore.
+
+**Stack:** `Arduino` `C++` `Hardware` `IoT`
+
+---
+
+### 💡 **SmartLamp**
+*Lampione intelligente con AI integrata*
+
+> Si accende rilevando veicoli, pedoni, ciclisti via telecamera. Perfetto per strade di montagna. Include monitoraggio traffico e stazione meteo.
+
+**Stack:** `AI` `Computer Vision` `IoT` `Python` `Arduino`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 📚 Attualmente sto studiando
 
-- Come funzionano internamente i modelli di linguaggio (LLM)
-- Tecniche di difesa attiva in cybersecurity
-- Sviluppo di prodotti tech scalabili
+- 🧠 Come funzionano internamente gli **LLM** (Large Language Models)
+- 🔐 Tecniche di **difesa attiva** in cybersecurity
+- 📈 Sviluppo di **prodotti tech scalabili**
 
 ---
 
-## 🎯 Obiettivo
+## 📊 GitHub Stats
 
-Creare una startup tech che unisca AI e sicurezza informatica per risolvere problemi reali.
+<div align="center">
+
+### 🔥 Streak & Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLiko08tu&theme=dark&hide_border=true)
+
+### 💻 Linguaggi più usati
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLiko08tu&layout=compact&theme=dark&langs_count=4&hide_border=true)
+
+</div>
 
 ---
 
-*"Non mi interessa solo usare la tecnologia — voglio capire come pensa."*
+## 💬 Contatti
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/liko.sys)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LLiko08tu)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by Liko**  
+*Sempre imparando, sempre costruendo.*
+
+</div>
