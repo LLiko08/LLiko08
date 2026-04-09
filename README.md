@@ -80,4 +80,4 @@ It's not enough for me to know that something works — I want to understand **_
 
 ---
 
-![gif](https://raw.githubusercontent.com/LLiko08/LLiko08/main/never_stop_dreaming_loop.gif)
+![gif](https://raw.githubusercontent.com/LLiko08/LLiko08/main/never_stop.gif)
