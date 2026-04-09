@@ -74,8 +74,7 @@ It's not enough for me to know that something works — I want to understand **_
 
 <div align="center">
 
-<!-- Statistiche principali -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LLiko08&theme=dark&hide_border=true" alt="GitHub Streak" width="30%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LLiko08&theme=dark&hide_border=true" alt="GitHub Streak" width="60%"/>
 
 </div>
 
