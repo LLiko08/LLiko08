@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"> Hey, I'm Liko
 
-**AI Enthusiast | Cybersecurity Passionate | Game Developer**
+**Scripter | Cybersecurity Passionate | Game Developer**
 
 ---
 
